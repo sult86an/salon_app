@@ -12,7 +12,7 @@
     </author>
     <content src="index.html" />
     <icon src="icon.png" />
-    <access origin="https://www.salonbty.com*" />
+    <access origin="https://www.salonbty.com/app/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
