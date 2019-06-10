@@ -1,0 +1,60 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.filfatstudios.spinnerdialog": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-contacts": {
+            "CONTACTS_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-media": {
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "net.ogail.skbah"
+        }
+    }
+}

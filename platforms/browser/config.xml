@@ -1,0 +1,26 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.ogail.salon" version="1.4.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <feature name="Device">
+        <param name="browser-package" value="Device" />
+    </feature>
+    <name>العميل</name>
+    <description>
+        سكبه متجر إلكتروني يهتم بما يخص الرجل من مستلزمات وهدايا وعطورات، يوفر أرقي الماركات العالمية بأفضل الأسعار، وبأفضل طرق الدفع المتعددة، يمكن التسوق والدفع بسهولة.
+    </description>
+    <author email="info@salonbty.com" href="www.salonbty.com/app/">
+        SalonBTY team
+    </author>
+    <content src="index.html" />
+    <icon src="icon.png" />
+    <access origin="https://www.salonbty.com*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="orientation" value="portrait" />
+</widget>

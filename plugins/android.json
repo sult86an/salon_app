@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "net.ogail.skbah"
+    }
+  }
+}
