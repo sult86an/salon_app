@@ -24,7 +24,7 @@ function inAppBrowserAPI() {
     ]
 
         var options = optionArr.join();
-        var browserOptions = window.open('www.salonbty.com/app/','_blank', options);
+        var browserOptions = window.open('https://www.salonapp.safifi.net/login','_blank', options);
         browserOptions.addEventListener('loadstart', loadStartCallBack);
         browserOptions.addEventListener('loadstop', loadStopCallBack);
         browserOptions.addEventListener('loaderror', loadErrorCallBack);
