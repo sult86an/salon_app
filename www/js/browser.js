@@ -1,4 +1,4 @@
-document.addEventListener("deviceready", inAppBrowserAPI, true);
+document.addEventListener("deviceready", inAppBrowserAPI, false);
 
 
 function inAppBrowserAPI() {

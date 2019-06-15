@@ -3,7 +3,7 @@ document.addEventListener("deviceready", inAppBrowserAPI, false);
 
 function inAppBrowserAPI() {
     var optionArr = [
-        'location=no',
+        'location=yes',
         'hidden=yes',
         'clearcache=no',
         'clearsessioncache=no',
@@ -24,7 +24,7 @@ function inAppBrowserAPI() {
     ]
 
         var options = optionArr.join();
-        var browserOptions = window.open('https://salonapp.safifi.net/login','_blank', options);
+        var browserOptions = window.open('https://www.salonbty.com/app/','_blank', options);
         browserOptions.addEventListener('loadstart', loadStartCallBack);
         browserOptions.addEventListener('loadstop', loadStopCallBack);
         browserOptions.addEventListener('loaderror', loadErrorCallBack);

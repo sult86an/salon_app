@@ -3,7 +3,7 @@ document.addEventListener("deviceready", inAppBrowserAPI, false);
 
 function inAppBrowserAPI() {
     var optionArr = [
-        'location=no',
+        'location=yes',
         'hidden=yes',
         'clearcache=no',
         'clearsessioncache=no',
