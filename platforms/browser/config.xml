@@ -3,9 +3,9 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>العميل</name>
+    <name>SALÓN</name>
     <description>
-        سكبه متجر إلكتروني يهتم بما يخص الرجل من مستلزمات وهدايا وعطورات، يوفر أرقي الماركات العالمية بأفضل الأسعار، وبأفضل طرق الدفع المتعددة، يمكن التسوق والدفع بسهولة.
+تطبيق صالون - نسخة تجريبية
     </description>
     <author email="info@salonbty.com" href="www.salonbty.com/app/">
         SalonBTY team

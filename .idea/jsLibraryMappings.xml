@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{salon_clinte-master/node_modules}" />
+    <file url="file://$PROJECT_DIR$/plugins/cordova-plugin-geolocation" libraries="{salon_clinte-master/plugins/cordova-plugin-geolocation/node_modules}" />
+    <file url="PROJECT" libraries="{salon_clinte-master/node_modules, salon_clinte-master/plugins/cordova-plugin-geolocation/node_modules}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+  </component>
+</project>

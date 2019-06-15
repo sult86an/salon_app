@@ -63,7 +63,7 @@
     </platform>
     <preference name="SplashScreenDelay" value="10000" />
     <preference name="orientation" value="portrait" />
-    <access origin="https://skbah.com*" />
+    <access origin="https://www.salonbty.com/app/*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
