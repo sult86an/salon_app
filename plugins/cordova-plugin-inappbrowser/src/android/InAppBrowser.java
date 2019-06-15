@@ -803,6 +803,12 @@ public class InAppBrowser extends CordovaPlugin {
                 }
                 settings.setDomStorageEnabled(true);
 
+                webView.setWebChromeClient(new WebChromeClient() {
+                 public void onGeolocationPermissionsShowPrompt(String origin, GeolocationPermissions.Callback callback) {
+                    callback.invoke(origin, true, false);
+                 }
+                });
+
                 if (clearAllCache) {
                     CookieManager.getInstance().removeAllCookie();
                 } else if (clearSessionCache) {
